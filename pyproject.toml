@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "safeinput-validator"
+version = "1.0.0"
+description = "Biblioteca FALSA para a demonstração do seminário. Nunca publique no PyPI."
